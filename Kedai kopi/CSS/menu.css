@@ -1,0 +1,43 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 90%;
+    gap: 12px;
+    margin-left: 6%;
+    margin-bottom: 6%;
+}
+.head-menu{
+    margin-top: 5%;
+    height: 100px;
+}
+.menu-form{
+    display: block;
+    padding: 20px 8px 24px 8px;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 100%;
+    background-color: #fff;
+    color: black;
+    box-shadow: 0 0 27px rgb(96 96 96 / 34%);
+}
+.menu-card-img{
+    border-radius: 4px;
+    margin-left: 5%;
+}
+.count{
+    width: 40%;
+    border: 1px solid black;
+    border-radius: 4px;
+    text-align: center;
+}
+.add-to-cart{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+.minus,.plus{
+    margin-bottom: 3%;
+    width: 20%;
+    border: 1px solid black;
+    border-radius: 4px;
+}

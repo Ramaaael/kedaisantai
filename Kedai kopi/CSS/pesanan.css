@@ -1,0 +1,25 @@
+.head-pes{
+    margin-top: 6%;
+    margin-bottom: 3%;
+}
+.form-pes{
+    margin-left: 6%;
+}
+.label-pes{
+    font-size: 18px;
+}
+.form-group{
+    margin-bottom: 2%;
+}
+.btn-pes{
+    padding: 8px;
+    border-radius: 4px;
+
+}
+.a-pes{
+    background-color: rgba(128, 128, 128, 0.884);
+    padding: 9px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #000;
+}
